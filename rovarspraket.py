@@ -2,7 +2,7 @@
 
 # swedish letters:
 # ALT+0197, ALT+0229, ALT+0196, ALT+0228, ALT+0214, ALT+0246
-# but my powershell can't actally handle it
+# but my powershell can't actally handle it, so i'm not coding them in
 
 import string
 
