@@ -3,10 +3,6 @@
 import random
 import string
 
-# i want to point out that 'pimpmobile' is in enable1.txt
-# i want to make it so every time you play this game,
-# 'pimpmobile' is one of the words you get
-
 f = open('enable1.txt','r')
 
 dictionary = dict([(x,[]) for x in [4,6,9,12,15,22]])
